@@ -1,0 +1,12 @@
+{
+  "blog_locale": "ja",
+  "blog_title": "ブログデモ",
+  "blog_description": "これはサンプルのブログです…",
+  "blog_theme": "default-dark",
+  "blog_author": "まさとらん",
+  "blog_author_url": "https://cvkeep.com/felipperegazio",
+  "blog_no_posts_hint": "まだ投稿はありません",
+  "blog_posted_by_hint": "Posted by:",
+  "blog_url": "https://blogcompleteurl.com",
+  "blog_prism_theme": "prism"
+}
